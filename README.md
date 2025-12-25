@@ -1,18 +1,17 @@
 # 🚖 OLA Ride Data Analysis Project
 
 ## Table of Contents
-- <a href="#Project Overview">Overview</a>
-- <a href="# Problem Statement">Business Problem</a>
+- <a href="#Project Overview">Project Overview</a>
+- <a href="# Problem Statement">Problem Statement</a>
 - <a href= "#dataset">Dataset</a>
-- <a href="#tools -- technologies">Tools & Technologies</a>
-- <a href="#project-structure">Project Structure</a>
-- <a href="#data-cleaning -- preparation">Data Cleaning & Preparation</a>
-- <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
-- <a href="#research-questions -- key-findings">Research Questions & Key Findings</a>
-- <a href="#dashboard">Dashboard</a>
-- <a href="#how-to-run-this-project">How to Run This Project</a>
-- <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author -- contact">Author & Contact</a>
+- <a href="#Dataset Description">Dataset Descriptio</a>
+- <a href="#Tools & Technologies">Tools & Technologies</a>
+- <a href="# SQL Analysis (Key Questions)"> SQL Analysis (Key Questions)</a>
+- <a href="#Power BI Dashboard">Power BI Dashboard</a>
+- <a href="# Key Insights"> Key Insights</a>
+- <a href="# Conclusion"> Conclusion</a>
+- <a href="# Repository Structure">Repository Structure</a>
+- <a href="# Author & Contacts">Author & Contacts</a>
 
 ## 📌 Project Overview
 The **OLA Ride Data Analysis Project** analyzes ride-booking data to understand business performance, customer behavior, and operational efficiency.  
@@ -122,9 +121,10 @@ OLA-Ride-Data-Analysis/
 └── README.md
 ---
 
-## 👤 Author
-**Your Name**  
+## 👤 Author & Contacts
+**Rudra Varshney**  
 Aspiring Data Analyst  
 Skills: SQL | Power BI | Data Analysis | Data Visualization  
+email-varshneyrudra71@gmail.com
 
 ⭐ If you like this project, feel free to star the repository!
