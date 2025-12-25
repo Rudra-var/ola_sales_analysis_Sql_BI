@@ -108,18 +108,18 @@ It supports data-driven decision-making, improves operational efficiency, and en
 OLA-Ride-Data-Analysis/
 │
 ├── SQL/
-│ └── ola_queries.sql
+│ └── ola_queries.sql /
 │
 ├── PowerBI/
-│ └── ola_dashboard.pbix
+│ └── ola_dashboard.pbix  /
 │
 ├── Data/
-│ └── ola_data.csv
+│ └── ola_data.csv /
 │
 ├── Images/
-│ └── dashboard_screenshots.png
+│ └── dashboard_screenshots.png/
 │
-└── README.md
+└── README.md/
 ---
 
 ## 👤 Author & Contacts
