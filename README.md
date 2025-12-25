@@ -1,5 +1,19 @@
 # 🚖 OLA Ride Data Analysis Project
 
+## Table of Contents
+- <a href="#Project Overview">Overview</a>
+- <a href="# Problem Statement">Business Problem</a>
+- <a href= "#dataset">Dataset</a>
+- <a href="#tools -- technologies">Tools & Technologies</a>
+- <a href="#project-structure">Project Structure</a>
+- <a href="#data-cleaning -- preparation">Data Cleaning & Preparation</a>
+- <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
+- <a href="#research-questions -- key-findings">Research Questions & Key Findings</a>
+- <a href="#dashboard">Dashboard</a>
+- <a href="#how-to-run-this-project">How to Run This Project</a>
+- <a href="#final-recommendations">Final Recommendations</a>
+- <a href="#author -- contact">Author & Contact</a>
+
 ## 📌 Project Overview
 The **OLA Ride Data Analysis Project** analyzes ride-booking data to understand business performance, customer behavior, and operational efficiency.  
 The project uses **SQL** for data analysis and **Power BI** for data visualization to convert raw data into meaningful business insights.
