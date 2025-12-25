@@ -3,7 +3,7 @@
 ## Table of Contents
 - <a href="#Project Overview">Project Overview</a>
 - <a href="# Problem Statement">Problem Statement</a>
-- <a href= "#dataset">Dataset</a>
+- <a href= "# Project Objectives"> Project Objectives</a>
 - <a href="#Dataset Description">Dataset Descriptio</a>
 - <a href="#Tools & Technologies">Tools & Technologies</a>
 - <a href="# SQL Analysis (Key Questions)"> SQL Analysis (Key Questions)</a>
@@ -27,7 +27,8 @@ This project solves the problem by analyzing data using **SQL** and presenting i
 
 ---
 
-## 🎯 Project Objectives
+<h2><a class="anchor" id="Project Objectives"></a>Project Objectives</h2>
+
 - Analyze successful, cancelled, and incomplete rides  
 - Identify key reasons for ride cancellations  
 - Study customer booking behavior and top customers  
